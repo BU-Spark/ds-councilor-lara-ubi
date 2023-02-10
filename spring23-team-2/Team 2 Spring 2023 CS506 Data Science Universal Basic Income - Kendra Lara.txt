@@ -1,0 +1,157 @@
+﻿Universal Basic Income
+                                   Spring 2023 CS506 Data Science
+Project Description
+This project seeks to understand what a universal basic income program should look like for Boston by looking at the number of people under the poverty line, what the different levels of poverty are, which public assistance programs are being utilized and the amount of assistance, and how much money per household could have the greatest positive impact. Boston City Councilor Kendra Lara has the opportunity to provide 1000 of these people with assistance so the analysis from this project can be used to help inform her of a potential selection process for. There also needs to be consideration of income that places participants outside of poverty and ineligible for program assistance, but could still benefit from monetary support.
+
+
+Project Steps
+Key Initial Steps
+1. Review Project Description and determine questions or clarifications needed from the client. 
+2. Create a work plan with your team and determine the breakdown of tasks into weekly sprints on the Trello board.
+
+
+Using the Data Sets & Sources
+1. The data for this project includes
+      1. Public assistance programs includes: Transitional Aid to Families with Dependent Children (TAFDC); Emergency Aid to the Elderly, Disabled and Children (EAEDC); Supplemental Nutrition Assistance Program (SNAP)
+      2. : 
+         1. DTA Data and Research | Mass.gov
+            1. Census income brackets/ poverty level: https://data.census.gov/table?q=DP03 
+            2. DTA_ZIPCODE_Report_DEC_2022.v2.xlsx 
+               1. Food Stamps/Supplemental Nutrition Assistance Program (SNAP) | American Community Survey | U.S. Census Bureau 
+         2. Shapefile 
+         3. WIC data
+            1. https://www.fns.usda.gov/data/october-2022-keydata-report 
+            2. WIC 
+         4. Section 8 Housing Assistance
+            1. Assisted Housing: National and Local | HUD USER 
+            2. MDAT Census attributes 
+         5. Background Reading on SNAP participation and performance: DTA Performance Scorecards | Mass.gov 
+         6. https://www.census.gov/quickfacts/fact/dashboard/MA/HSD310221 
+         7. https://www.mass.gov/info-details/municipal-finance-visualizations#municipal-financial-self-assessment- 
+
+
+        Part 1: Analysis & Tasks
+1. Establish participants in each assistance program into one centralized sheet
+   1. Consider including 
+      1. Demographics
+         1. Race/Ethnicity, Gender, Neighborhoods/County
+      2. Income
+
+
+Questions
+1. How many people participate in assistance programs? 
+2. What is the income distribution for Boston residents living poverty line
+3. How many people participate in assistance programs - focus on WIC, Snap, and Housing assistance (section 8)? 
+4. How much assistance is provided to residents at different income levels (under poverty level)
+5. What amount would pull the largest number of households out of the poverty level without sacrificing existing assistance benefits?
+
+
+Part 2: Extension Data Sets & Sources
+1. This next part of this project is to get creative with additional data that you think would tell an interesting story. This extension should be something your team finds compelling. You will create a mid-semester proposal for this extension project that the client will approve.These may be helpful datasets or topics to consider, but you are welcome to research other datasets and sources:
+   1. Potential Data Sets
+      1. Social Security/ VA/ Disability Benefits?
+      2. Redlining
+      3. Eviction Diversion Initiative Dashboard | Mass.gov 
+2. Discuss topics your team is interested in and research other datasets/sources (be creative!)
+3. Create a proposal that contains:
+   1. Extension pitch and rationale
+   2. Questions to be answered for analysis
+   3. Datasets & sources you will be using
+4. Pitch the proposal to the client 
+   1. Make any edits/updates as necessary
+   2. Get client’s approval
+5. Analysis
+   1. Analyze the datasets and create visualizations
+
+
+Expected Final Deliverable
+1. Create a report with key visualizations and answers to your client’s questions. 
+
+
+
+
+
+
+
+
+Contact Information
+Role 
+	First Name
+	Last Name
+	Email
+	Client -  Organization Name
+	Kendra
+	Lara
+	kendra.lara@boston.gov
+
+
+jacqueline.celestino@boston.gov
+
+
+	Client - Chief of Staff
+	Lee
+	Nave
+	
+
+	Spark! Support
+	Ziba 
+	Cranmer
+	zcranmer@bu.edu
+	Spark! EIR
+	Tom 
+	Hopper
+	thopper@mhp.net
+	Class Instructor
+	Lance
+	Galletti 
+	galletti@bu.edu
+	PM
+	Jasmine
+	Fanchu Zhou
+	fanchuz@bu.edu
+	TE
+	Yagev 
+	Levi
+	yagev@bu.edu
+	Team Lead [if applicable]
+	Ghalia
+	Alshanbari
+	galshanb@Bu.edu
+	Teammate
+	June
+	Wunder
+	jwunder@bu.edu
+	Teammate
+	Sanskriti
+	Sharma
+	sanas@bu.edu
+	Teammate
+	Esther
+	Attar
+	eattar@bu.edu
+	Meeting Notes
+Meeting 1: Kickoff
+
+
+Attendance: Everyone attended
+1. What is the project focus/overall goal?
+Assessing what the universal basic income should look like in Boston.
+2. Why is this project important?
+Universal basic income is important because it helps people below the poverty line. Analyzing this data can help the Boston City Council best allocate their resources to help the most people.
+3. What type of data will you collect or be analyzing?
+        We will not be collecting data – it has been provided to us. We have been given:
+* Demographic data about the populations of each district in Boston
+* Census data about income brackets
+* Data about the efficacy and usage of SNAP (and other funding provided by the DTA), by district
+
+
+4. What are potential limitations of the project?
+        Most of the data seems to be sectioned by district and can be very broad. UBI affects individual families on a personal level so we are not sure how to approach this at the moment.
+5. What are your next steps? Divide tasks amongst the team
+Set up weekly meetings with our group to discuss our findings. 
+We will all look over the data sets provided 
+* Ghalia:3 and 6
+* Sanskriti: 4 and 5
+* June: 2
+* Esther: 1
+* All: 7
