@@ -48,3 +48,8 @@ Extension project : SNAP analysis over past 5 years : ds-councilor-lara-ubi\spri
 1, 10 years of data has been extracted from census
 2, Data has been processed and converted to file cummulative_snap_data.xlsx
 3, Variations are plotted in the file snap_5.xlsx
+
+
+
+Deliverable 3 & 4 :
+1, Changes mentioned by client related to work of till checkpointB are done in the respective folders so no specific code went into this folder. 
